@@ -1,4 +1,4 @@
-![logo](https://github.com/KomalSharma0/KomalSharma.github.io/blob/main/my%20profile%20banner.png)
+![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/my%20profile%20banner.png)
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
