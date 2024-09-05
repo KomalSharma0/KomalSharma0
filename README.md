@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="data" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4tZIpnpWDjq1RQPChmU38a6eRTVbKmMK3g&s">
+<img align="right" alt="data" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4tZIpnpWDjq1RQPChmU38a6eRTVbKmMK3g&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsharma0&label=Profile%20views&color=0e75b6&style=flat" alt="komalsharma0" /> </p>
 
