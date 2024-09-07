@@ -3,7 +3,7 @@
 
 <h3 align="left">After graduating in 2020, I embarked on a journey of self-discovery, initially preparing for competitive exams. While this path didn’t work out as planned, it led me to explore different career options. In 2023, while researching career opportunities, I stumbled upon Data Analytics, which sparked my interest. The potential to derive insights from data and drive informed decision-making caught my attention, and I knew I had found my calling.
 
-While interviewing for jobs during this time, I secured a role as a Customer Care Executive in the automotive industry. Though this role honed my communication, problem-solving, and time management skills, I realized it wasn’t aligned with my long-term career goals. In late 2023, I made a bold decision to quit and fully commit to a career in Data Analytics.
+While interviewing for jobs during this time, I secured a role as a Customer Care Executive in the automotive industry. Though this role honed my communication and  problem-solving skills, I realized it wasn’t aligned with my long-term career goals. In late 2023, I made a bold decision to quit and fully commit to a career in Data Analytics.
 
 I enrolled in a comprehensive Data Analytics Certification Program, where I immersed myself in learning the key tools and techniques essential for a data analyst role, including SQL (MySQL), Power BI, Python, and Advanced Excel. This journey sharpened my analytical thinking and problem-solving abilities, allowing me to transfer the skills I developed in previous roles to the world of data.
 
