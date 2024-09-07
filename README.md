@@ -1,6 +1,17 @@
 ![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/my%20profile%20banner.png)
-<h1 align="center">Hi 👋, I'm Komal Sharma</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm Komal Sharma.</h1>
+
+<h3 align="left">After graduating in 2020, I embarked on a journey of self-discovery, initially preparing for competitive exams. While this path didn’t work out as planned, it led me to explore different career options. In 2023, while researching career opportunities, I stumbled upon Data Analytics, which sparked my interest. The potential to derive insights from data and drive informed decision-making caught my attention, and I knew I had found my calling.
+
+While interviewing for jobs during this time, I secured a role as a Customer Care Executive in the automotive industry. Though this role honed my communication, problem-solving, and time management skills, I realized it wasn’t aligned with my long-term career goals. In late 2023, I made a bold decision to quit and fully commit to a career in Data Analytics.
+
+I enrolled in a comprehensive Data Analytics Certification Program, where I immersed myself in learning the key tools and techniques essential for a data analyst role, including SQL (MySQL), Power BI, Python, and Advanced Excel. This journey sharpened my analytical thinking and problem-solving abilities, allowing me to transfer the skills I developed in previous roles to the world of data.
+
+Since then, I’ve enhanced my practical skills through a PwC Switzerland job simulation on Forage and a virtual internship at 360DigiTMG, where I worked on real-world projects to improve operational efficiency. These experiences allowed me to apply data analysis techniques to uncover key insights and optimize processes, further solidifying my passion for this field.
+  
+Currently, I’m working on various projects to continue refining my data analytics skills and stay updated with industry best practices.
+  
+Feel free to explore my repositories where I showcase my ongoing projects and progress as a Data Analyst. I’m always open to feedback and collaboration!</h3>
 
 <img align="right" alt="data" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4tZIpnpWDjq1RQPChmU38a6eRTVbKmMK3g&s">
 
