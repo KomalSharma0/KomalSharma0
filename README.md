@@ -25,7 +25,7 @@ Feel free to explore my repositories where I showcase my ongoing projects and pr
 
 - 📫 How to reach me **sharmakomal3017@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/66d95ed11afcbb0ed3d909ce](https://app.luminpdf.com/viewer/66d95ed11afcbb0ed3d909ce)
+- 📄 Know about my experiences [here](https://app.luminpdf.com/viewer/66ec155257e07d4cbe59be49)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
