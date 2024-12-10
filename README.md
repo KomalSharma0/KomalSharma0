@@ -25,7 +25,7 @@ Feel free to explore my repositories where I showcase my ongoing projects and pr
 
 - 📫 How to reach me **sharmakomal3017@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1jx5j4QEKu03VQ9YaD_FqQfCJk18ZPQLS/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1jEyM2e0dXJ97fTXuTXvYtycHhlntZf9S/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
