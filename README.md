@@ -1,4 +1,4 @@
-![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/my%20profile%20banner.png)
+![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/Linkedin%20Cover%202.png)
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
 <h3 align="left">After graduating in 2020, I embarked on a journey of self-discovery, initially preparing for competitive exams. While this path didn’t work out as planned, it led me to explore different career options. In 2023, while researching career opportunities, I stumbled upon Data Analytics, which sparked my interest. The potential to derive insights from data and drive informed decision-making caught my attention, and I knew I had found my calling.
 
