@@ -10,7 +10,7 @@ Since then, I have actively worked on developing my practical skills through mul
 
 Currently, I am continuously working on new projects to further refine my skills and stay up to date with evolving trends in Data Analytics.
 
-Feel free to explore my repositories, where I showcase my ongoing projects and progress as a Data Analyst. I am always open to feedback and collaboration!</h3>
+📌 Feel free to explore my repositories, where I showcase my ongoing projects and progress as a Data Analyst. I am always open to feedback and collaboration!</h3>
 
 
 <img align="right" alt="data" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4tZIpnpWDjq1RQPChmU38a6eRTVbKmMK3g&s">
