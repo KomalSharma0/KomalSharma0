@@ -1,31 +1,62 @@
 ![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/Linkedin%20Cover%202.png)
 <h1 align="center">Hi 👋, I'm Komal Sharma</h1>
-<h3 align="left">After graduating in 2020, I embarked on a journey of self-discovery, initially preparing for competitive exams. While this path didn’t work out as planned, it led me to explore different career options. In 2023, while researching career opportunities, I stumbled upon Data Analytics, which sparked my interest. The potential to derive insights from data and drive informed decision-making caught my attention, and I knew I had found my calling.
+<h3 align="left">After graduating in 2020, I embarked on a journey of self-discovery, initially preparing for competitive exams. While this path didn’t unfold as planned, it led me to explore various career options. In 2023, during my research on potential careers, I stumbled upon Data Analytics, and it immediately resonated with me. The ability to derive meaningful insights from data and drive informed decision-making sparked my curiosity, and I knew I had found my calling.
 
-While interviewing for jobs during this time, I secured a role as a Customer Care Executive in the automotive industry. Though this role honed my communication and  problem-solving skills, I realized it wasn’t aligned with my long-term career goals. In late 2023, I made a bold decision to quit and fully commit to a career in Data Analytics.
+While interviewing for jobs, I secured a role as a Customer Care Executive in the automotive industry. This experience strengthened my communication and problem-solving skills, but I soon realized it wasn’t aligned with my long-term aspirations. In late 2023, I made the bold decision to transition fully into Data Analytics.
 
-I enrolled in a comprehensive Data Analytics Certification Program, where I immersed myself in learning the key tools and techniques essential for a data analyst role, including SQL (MySQL), Power BI, Python, and Advanced Excel. This journey sharpened my analytical thinking and problem-solving abilities, allowing me to transfer the skills I developed in previous roles to the world of data.
+To build a strong foundation, I enrolled in a comprehensive Data Analytics Certification Program, where I immersed myself in SQL (MySQL), Power BI, Python, and Advanced Excel. This journey not only sharpened my analytical thinking but also allowed me to transfer my problem-solving abilities from previous roles into the world of data.
 
-Since then, I’ve enhanced my practical skills through a PwC Switzerland job simulation on Forage and a virtual internship at 360DigiTMG, where I worked on real-world projects to improve operational efficiency. These experiences allowed me to apply data analysis techniques to uncover key insights and optimize processes, further solidifying my passion for this field.
-  
-Currently, I’m working on various projects to continue refining my data analytics skills and stay updated with industry best practices.
-  
-Feel free to explore my repositories where I showcase my ongoing projects and progress as a Data Analyst. I’m always open to feedback and collaboration!</h3>
+Since then, I have actively worked on developing my practical skills through multiple job simulations on Forage and internships at 360DigiTMG, KultureHire, and Cognifyz Technologies. These experiences provided hands-on exposure to real-world data challenges, where I applied analytical techniques to uncover key insights, enhance operational efficiency, and optimize business processes. Each project has reinforced my passion for data-driven problem-solving and deepened my understanding of industry best practices.
+
+Currently, I am continuously working on new projects to further refine my skills and stay up to date with evolving trends in Data Analytics.
+
+Feel free to explore my repositories, where I showcase my ongoing projects and progress as a Data Analyst. I am always open to feedback and collaboration!</h3>
 
 
 <img align="right" alt="data" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4tZIpnpWDjq1RQPChmU38a6eRTVbKmMK3g&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalsharma0&label=Profile%20views&color=0e75b6&style=flat" alt="komalsharma0" /> </p>
 
-- 🔭 I’m currently working on **building projects to enhance my skills.**
+---
 
-- 🌱 I’m currently learning **Data Analytics.**
+- ## Skills
 
-- 💬 Ask me about **Excel, SQL, Power Bi, Python.**
+✔ **Data Analysis** – Exploratory Data Analysis (EDA), Trend Analysis, Data Cleaning  
+✔ **SQL** – Joins, Subqueries, CTEs, Window Functions, Views  
+✔ **Power BI** – DAX, Data Modeling, Report Creation, Dashboard Building  
+✔ **Python (Pandas, Matplotlib, Seaborn)** – Data Manipulation, Visualization  
+✔ **Excel (Advanced)** – Pivot Tables, LOOKUP Functions, Power Query 
 
-- 📫 How to reach me **sharmakomal3017@gmail.com**
+---
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1jEyM2e0dXJ97fTXuTXvYtycHhlntZf9S/view?usp=drive_link)
+## Extracurricular & Certifications
+
+🏆 **TCS Job Simulation – Forage**  
+🏆 **PwC Switzerland Job Simulation – Forage**  
+🏆 **Data Analysis & Visualization – Analytics Training Hub, Delhi**  
+🏆 **The Complete SQL Bootcamp – Udemy**  
+🏆 **Advanced Excel – Internshala**  
+
+---
+
+## Education
+
+🎓 **Bachelor of Science (BSc) in Computer Science**  
+
+---
+
+## Languages
+
+🗣 **Hindi** – Native  
+🗣 **English** – Professional  
+
+---
+
+## Contact Information
+
+📧 **Email:** [sharmakomal3017@gmail.com](mailto:sharmakomal3017@gmail.com)  
+🔗 **LinkedIn:** [Komal Sharma](https://www.linkedin.com/in/komal-sharma-189823263/)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
