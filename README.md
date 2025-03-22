@@ -55,7 +55,7 @@ Currently, I am continuously working on new projects to further refine my skills
 ## Contact Information
 
 📧 **Email:** [sharmakomal3017@gmail.com](mailto:sharmakomal3017@gmail.com)  
-🔗 **LinkedIn:** [Komal Sharma](https://www.linkedin.com/in/komal-sharma-189823263/)  
+🔗 **LinkedIn:** [Komal Sharma](https://www.linkedin.com/in/komalsharma-insights/)  
 
 
 <h3 align="left">Connect with me:</h3>
