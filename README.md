@@ -1,6 +1,7 @@
 ![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/Linkedin%20Cover%202.png)
-<h1 align="center">Hi 👋, I'm Komal Sharma and Welcome to My GitHub!</h1>
+<h1 align="center">Hi 👋 Welcome to My GitHub!</h1>
 <h3 align="left">I’m a Data Analytics professional skilled in SQL, Power BI, Python, and Advanced Excel. Passionate about uncovering insights from data to drive informed decisions.
+
 
 🚀 Hands-on Experience:
 
