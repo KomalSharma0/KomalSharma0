@@ -1,16 +1,22 @@
 ![logo](https://github.com/KomalSharma0/KomalSharma0/blob/main/Linkedin%20Cover%202.png)
-<h1 align="center">Hi 👋, I'm Komal Sharma</h1>
-<h3 align="left">After graduating in 2020, I embarked on a journey of self-discovery, initially preparing for competitive exams. While this path didn’t unfold as planned, it led me to explore various career options. In 2023, during my research on potential careers, I stumbled upon Data Analytics, and it immediately resonated with me. The ability to derive meaningful insights from data and drive informed decision-making sparked my curiosity, and I knew I had found my calling.
+<h1 align="center">Hi 👋, I'm Komal Sharma and Welcome to My GitHub!</h1>
+<h3 align="left">I’m a Data Analytics professional skilled in SQL, Power BI, Python, and Advanced Excel. Passionate about uncovering insights from data to drive informed decisions.
 
-While interviewing for jobs, I secured a role as a Customer Care Executive in the automotive industry. This experience strengthened my communication and problem-solving skills, but I soon realized it wasn’t aligned with my long-term aspirations. In late 2023, I made the bold decision to transition fully into Data Analytics.
+🚀 Hands-on Experience:
 
-To build a strong foundation, I enrolled in a comprehensive Data Analytics Certification Program, where I immersed myself in SQL (MySQL), Power BI, Python, and Advanced Excel. This journey not only sharpened my analytical thinking but also allowed me to transfer my problem-solving abilities from previous roles into the world of data.
+Completed internships at Cognifyz, KultureHire, and 360DigiTMG, working on real-world data challenges.
 
-Since then, I have actively worked on developing my practical skills through multiple job simulations on Forage and internships at 360DigiTMG, KultureHire, and Cognifyz Technologies. These experiences provided hands-on exposure to real-world data challenges, where I applied analytical techniques to uncover key insights, enhance operational efficiency, and optimize business processes. Each project has reinforced my passion for data-driven problem-solving and deepened my understanding of industry best practices.
+Built multiple end-to-end analytics projects using industry-relevant datasets.
 
-Currently, I am continuously working on new projects to further refine my skills and stay up to date with evolving trends in Data Analytics.
+Strong foundation in data visualization, statistical analysis, and business intelligence.
 
-📌 Feel free to explore my repositories, where I showcase my ongoing projects and progress as a Data Analyst. I am always open to feedback and collaboration!</h3>
+📂 Explore My Repositories:
+
+Showcasing my projects, dashboards, and data-driven insights.
+
+Open to collaboration and feedback!
+
+🔍 Currently: Expanding my expertise in advanced analytics & business problem-solving.</h3>
 
 
 <img align="right" alt="data" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4tZIpnpWDjq1RQPChmU38a6eRTVbKmMK3g&s">
